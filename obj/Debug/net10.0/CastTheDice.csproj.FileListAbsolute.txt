@@ -1,0 +1,15 @@
+/Users/melinamobarekeh/Documents/CSharpGrundkurs/CastTheDice/obj/Debug/net10.0/CastTheDice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melinamobarekeh/Documents/CSharpGrundkurs/CastTheDice/obj/Debug/net10.0/CastTheDice.AssemblyInfoInputs.cache
+/Users/melinamobarekeh/Documents/CSharpGrundkurs/CastTheDice/obj/Debug/net10.0/CastTheDice.AssemblyInfo.cs
+/Users/melinamobarekeh/Documents/CSharpGrundkurs/CastTheDice/obj/Debug/net10.0/CastTheDice.csproj.CoreCompileInputs.cache
+/Users/melinamobarekeh/Documents/CSharpGrundkurs/CastTheDice/obj/Debug/net10.0/CastTheDice.sourcelink.json
+/Users/melinamobarekeh/Documents/CSharpGrundkurs/CastTheDice/bin/Debug/net10.0/CastTheDice
+/Users/melinamobarekeh/Documents/CSharpGrundkurs/CastTheDice/bin/Debug/net10.0/CastTheDice.deps.json
+/Users/melinamobarekeh/Documents/CSharpGrundkurs/CastTheDice/bin/Debug/net10.0/CastTheDice.runtimeconfig.json
+/Users/melinamobarekeh/Documents/CSharpGrundkurs/CastTheDice/bin/Debug/net10.0/CastTheDice.dll
+/Users/melinamobarekeh/Documents/CSharpGrundkurs/CastTheDice/bin/Debug/net10.0/CastTheDice.pdb
+/Users/melinamobarekeh/Documents/CSharpGrundkurs/CastTheDice/obj/Debug/net10.0/CastTheDice.dll
+/Users/melinamobarekeh/Documents/CSharpGrundkurs/CastTheDice/obj/Debug/net10.0/refint/CastTheDice.dll
+/Users/melinamobarekeh/Documents/CSharpGrundkurs/CastTheDice/obj/Debug/net10.0/CastTheDice.pdb
+/Users/melinamobarekeh/Documents/CSharpGrundkurs/CastTheDice/obj/Debug/net10.0/CastTheDice.genruntimeconfig.cache
+/Users/melinamobarekeh/Documents/CSharpGrundkurs/CastTheDice/obj/Debug/net10.0/ref/CastTheDice.dll
